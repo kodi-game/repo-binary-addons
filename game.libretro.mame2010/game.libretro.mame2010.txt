@@ -1,1 +1,0 @@
-game.libretro.mame2010 https://github.com/kodi-game/game.libretro.mame2010 master
