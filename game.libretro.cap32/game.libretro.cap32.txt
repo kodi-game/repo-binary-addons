@@ -1,1 +1,1 @@
-game.libretro.cap32 https://github.com/kodi-game/game.libretro.cap32 master
+game.libretro.cap32 https://github.com/kodi-game/game.libretro.cap32 fix-input
