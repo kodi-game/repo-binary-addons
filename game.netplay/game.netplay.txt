@@ -1,0 +1,1 @@
+game.netplay https://github.com/kodi-game/game.netplay master
