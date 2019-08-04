@@ -1,1 +1,1 @@
-web.browser.chromium https://github.com/AlwinEsch/web.browser.chromium master
+web.browser.chromium https://github.com/garbear/web.browser.chromium master
