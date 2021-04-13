@@ -1,0 +1,1 @@
+game.libretro.crocods https://github.com/kodi-game/game.libretro.crocods master

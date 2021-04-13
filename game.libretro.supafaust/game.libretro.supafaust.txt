@@ -1,0 +1,1 @@
+game.libretro.supafaust https://github.com/kodi-game/game.libretro.supafaust master

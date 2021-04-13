@@ -1,0 +1,1 @@
+game.libretro.freechaf https://github.com/kodi-game/game.libretro.freechaf master

@@ -1,0 +1,1 @@
+game.libretro.same_cdi https://github.com/kodi-game/game.libretro.same_cdi master

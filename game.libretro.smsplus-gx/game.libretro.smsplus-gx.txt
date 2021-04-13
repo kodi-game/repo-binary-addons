@@ -1,0 +1,1 @@
+game.libretro.smsplus-gx https://github.com/kodi-game/game.libretro.smsplus-gx master
