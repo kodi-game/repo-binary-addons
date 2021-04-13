@@ -1,0 +1,1 @@
+peripheral.steamcontroller https://github.com/kodi-game/peripheral.steamcontroller master

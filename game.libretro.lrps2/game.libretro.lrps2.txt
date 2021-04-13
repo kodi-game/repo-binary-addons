@@ -1,0 +1,1 @@
+game.libretro.lrps2 https://github.com/kodi-game/game.libretro.lrps2 master
