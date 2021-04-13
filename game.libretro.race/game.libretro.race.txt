@@ -1,0 +1,1 @@
+game.libretro.race https://github.com/kodi-game/game.libretro.race master

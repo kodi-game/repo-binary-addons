@@ -1,0 +1,1 @@
+game.libretro.fbalpha2012-cps2 https://github.com/kodi-game/game.libretro.fbalpha2012-cps2 master

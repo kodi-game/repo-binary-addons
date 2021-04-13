@@ -1,0 +1,1 @@
+game.libretro.ecwolf https://github.com/kodi-game/game.libretro.ecwolf master

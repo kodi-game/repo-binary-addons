@@ -1,0 +1,1 @@
+game.libretro.galaxy https://github.com/kodi-game/game.libretro.galaxy master

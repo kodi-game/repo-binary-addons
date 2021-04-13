@@ -1,0 +1,1 @@
+game.libretro.cannonball https://github.com/kodi-game/game.libretro.cannonball master

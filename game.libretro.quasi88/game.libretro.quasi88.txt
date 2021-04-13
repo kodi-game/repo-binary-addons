@@ -1,0 +1,1 @@
+game.libretro.quasi88 https://github.com/kodi-game/game.libretro.quasi88 master

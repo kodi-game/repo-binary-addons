@@ -1,0 +1,1 @@
+game.libretro.ep128emu https://github.com/kodi-game/game.libretro.ep128emu master
