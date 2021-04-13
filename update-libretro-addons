@@ -1,0 +1,10 @@
+for i in ../libreelec/packages/mediacenter/kodi-binary-addons/game.libretro.* \
+         ../libreelec/packages/mediacenter/kodi-binary-addons/peripheral.*; do
+  (
+  . $i/package.mk
+  mkdir -p ${PKG_NAME}
+  echo ${PKG_NAME}
+  echo "${PKG_NAME} ${PKG_SITE} master" > ${PKG_NAME}/${PKG_NAME}.txt
+  echo all > ${PKG_NAME}/platforms.txt
+  )
+done

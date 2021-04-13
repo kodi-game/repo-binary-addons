@@ -1,0 +1,1 @@
+game.libretro.fsuae https://github.com/kodi-game/game.libretro.fsuae master

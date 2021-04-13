@@ -1,0 +1,1 @@
+game.libretro.daphne https://github.com/kodi-game/game.libretro.daphne master
