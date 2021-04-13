@@ -1,0 +1,1 @@
+game.libretro.pocketcdg https://github.com/kodi-game/game.libretro.pocketcdg master
