@@ -1,0 +1,1 @@
+game.libretro.vice_x64 https://github.com/kodi-game/game.libretro.vice_x64 master
