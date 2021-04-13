@@ -1,0 +1,1 @@
+game.libretro.stella2023 https://github.com/kodi-game/game.libretro.stella2023 master

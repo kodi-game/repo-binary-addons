@@ -1,0 +1,1 @@
+game.libretro.px68k https://github.com/kodi-game/game.libretro.px68k master

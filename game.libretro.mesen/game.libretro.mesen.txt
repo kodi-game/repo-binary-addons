@@ -1,0 +1,1 @@
+game.libretro.mesen https://github.com/kodi-game/game.libretro.mesen master

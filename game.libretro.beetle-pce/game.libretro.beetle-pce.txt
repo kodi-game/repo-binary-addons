@@ -1,0 +1,1 @@
+game.libretro.beetle-pce https://github.com/kodi-game/game.libretro.beetle-pce master
