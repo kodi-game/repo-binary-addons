@@ -1,0 +1,1 @@
+game.libretro.atari800 https://github.com/kodi-game/game.libretro.atari800 master
