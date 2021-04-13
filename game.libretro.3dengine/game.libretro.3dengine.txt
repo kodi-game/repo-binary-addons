@@ -1,0 +1,1 @@
+game.libretro.3dengine https://github.com/kodi-game/game.libretro.3dengine master
