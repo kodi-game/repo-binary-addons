@@ -1,0 +1,1 @@
+game.libretro.dosbox-core https://github.com/kodi-game/game.libretro.dosbox-core master

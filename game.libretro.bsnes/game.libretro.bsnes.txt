@@ -1,0 +1,1 @@
+game.libretro.bsnes https://github.com/kodi-game/game.libretro.bsnes master

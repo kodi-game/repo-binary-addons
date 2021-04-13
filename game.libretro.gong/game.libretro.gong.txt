@@ -1,0 +1,1 @@
+game.libretro.gong https://github.com/kodi-game/game.libretro.gong master

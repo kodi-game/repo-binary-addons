@@ -1,0 +1,1 @@
+game.libretro.potator https://github.com/kodi-game/game.libretro.potator master

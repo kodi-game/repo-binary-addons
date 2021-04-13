@@ -1,0 +1,1 @@
+game.libretro.gearboy https://github.com/kodi-game/game.libretro.gearboy master

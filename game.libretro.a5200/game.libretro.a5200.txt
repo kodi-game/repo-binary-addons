@@ -1,0 +1,1 @@
+game.libretro.a5200 https://github.com/kodi-game/game.libretro.a5200 master

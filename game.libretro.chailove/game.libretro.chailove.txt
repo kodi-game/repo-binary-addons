@@ -1,0 +1,1 @@
+game.libretro.chailove https://github.com/kodi-game/game.libretro.chailove master

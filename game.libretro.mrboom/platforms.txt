@@ -1,1 +1,1 @@
-!windowsstore
+all
