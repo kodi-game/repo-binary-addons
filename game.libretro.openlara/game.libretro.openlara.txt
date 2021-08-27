@@ -1,1 +1,0 @@
-game.libretro.openlara https://github.com/kodi-game/game.libretro.openlara master
