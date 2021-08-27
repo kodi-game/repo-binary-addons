@@ -1,1 +1,0 @@
-game.libretro.hbmame https://github.com/kodi-game/game.libretro.hbmame master
