@@ -1,1 +1,0 @@
-game.libretro.parallel_n64 https://github.com/kodi-game/game.libretro.parallel_n64 master
