@@ -1,1 +1,1 @@
-game.shader.presets https://github.com/kodi-game/game.shader.presets Matrix
+game.shader.presets https://github.com/garbear/game.shader.presets remove-dead-code
