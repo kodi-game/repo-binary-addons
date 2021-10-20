@@ -1,1 +1,0 @@
-game.libretro.picodrive https://github.com/kodi-game/game.libretro.picodrive master
