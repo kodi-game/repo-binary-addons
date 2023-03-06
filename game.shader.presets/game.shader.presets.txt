@@ -1,1 +1,1 @@
-game.shader.presets https://github.com/kodi-game/game.shader.presets Omega
+game.shader.presets https://github.com/kodi-game/game.shader.presets retroplayer
