@@ -1,1 +1,0 @@
-game.libretro.dolphin https://github.com/kodi-game/game.libretro.dolphin master
