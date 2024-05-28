@@ -1,1 +1,0 @@
-game.libretro.fuse https://github.com/kodi-game/game.libretro.fuse master
