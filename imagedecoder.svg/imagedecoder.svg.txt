@@ -1,0 +1,1 @@
+imagedecoder.svg https://github.com/xbmc/imagedecoder.svg Piers
