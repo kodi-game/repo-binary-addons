@@ -1,1 +1,1 @@
-game.shader.presets https://github.com/kodi-game/game.shader.presets Piers
+game.shader.presets https://github.com/kodi-game/game.shader.presets retroplayer-piers
